@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -37,8 +37,22 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="leo.20160115112749.3"><vh>@edit 40423124_cp_w1.md</vh></v>
+<v t="leo.20160115112749.4"><vh>@edit 40423124_cp_w2.md</vh></v>
+<v t="leo.20160115112749.5"><vh>@edit 40423124_cp_w3.md</vh></v>
+<v t="leo.20160115112749.6"><vh>@edit 40423124_cp_w4.md</vh></v>
+<v t="leo.20160115112749.7"><vh>@edit 40423124_cp_w5.md</vh></v>
+<v t="leo.20160115112749.8"><vh>@edit 40423124_cp_w6.md</vh></v>
+<v t="leo.20160115112749.9"><vh>@edit 40423124_cp_w7.md</vh></v>
+<v t="leo.20160115112749.10"><vh>@edit 40423124_cp_w8.md</vh></v>
+<v t="leo.20160115112749.11"><vh>@edit 40423124_cp_w9.md</vh></v>
+<v t="leo.20160115112749.12"><vh>@edit 40423124_cp_w10.md</vh></v>
+<v t="leo.20160115112749.13"><vh>@edit 40423124_cp_w11.md</vh></v>
+<v t="leo.20160115112749.14"><vh>@edit 40423124_cp_w12.md</vh></v>
+<v t="leo.20160115112749.15"><vh>@edit 40423124_cp_w13.md</vh></v>
+<v t="leo.20160115112749.16"><vh>@edit 40423124_cp_w14.md</vh></v>
+<v t="leo.20160115112749.17"><vh>@edit 40423124_cp_w15.md</vh></v>
+<v t="leo.20160115112749.18"><vh>@edit 40423124_cp_w16.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -284,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -491,6 +505,19 @@
 </v>
 </v>
 </v>
+<v t="leo.20160115112910.1"><vh>@edit 40423124_cp_w1_p.html</vh></v>
+<v t="leo.20160115112917.1"><vh>@edit 40423124_cp_w2_p.html</vh></v>
+<v t="leo.20160115112925.1"><vh>@edit 40423124_cp_w3_p.html</vh></v>
+<v t="leo.20160115112932.1"><vh>@edit 40423124_cp_w4_p.html</vh></v>
+<v t="leo.20160115113013.1"><vh>@edit 40423124_cp_w5_p.html</vh></v>
+<v t="leo.20160115113021.1"><vh>@edit 40423124_cp_w6_p.html</vh></v>
+<v t="leo.20160115113026.1"><vh>@edit 40423124_cp_w7_p.html</vh></v>
+<v t="leo.20160115113036.1"><vh>@edit 40423124_cp_w8_p.html</vh></v>
+<v t="leo.20160115113042.1"><vh>@edit 40423124_cp_w11_p.html</vh></v>
+<v t="leo.20160115113048.1"><vh>@edit 40423124_cp_w12_p.html</vh></v>
+<v t="leo.20160115113054.1"><vh>@edit 40423124_cp_w14_p.html</vh></v>
+<v t="leo.20160115113103.1"><vh>@edit 40423124_cp_w15_p.html</vh></v>
+<v t="leo.20160115113129.1"><vh>@edit 40423124_cp_w16_p.html</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20150913232631.1"></t>
